@@ -1,4 +1,3 @@
-```
 # Exercise-03a-Colors-and-Particles
 
 Exercise for MSCH-C220
@@ -29,4 +28,3 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 ## Created by 
 
 Jacob Mundy
-```
